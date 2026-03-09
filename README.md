@@ -46,6 +46,7 @@ community's setup process (which usually works on some servers, but not on other
  * CustomTF/ProzacTF custom class saving
  * CustomTF/ProzacTF custom class GUI buy menu (similar to Counter-Strike)
  * AttackersGoRed (AGR) support
+ * FortressOne/QWTF.Live support
  * ...and much more to come!
 
 The standalone client comes only with bare minimum of game media. If you want to
