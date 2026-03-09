@@ -34,7 +34,12 @@ community's setup process (which usually works on some servers, but not on other
 ## ezQWTF-specific Features
 
 *this is mostly servering as a "to-do" - though much of this has already been completed, just not committed until further testing has been completed*
-
+ * Support for vanilla QuakeWorld Team Fortress, as well as all sub-sects:
+   * Mega-TF
+   * Custom-TF/ProZaC-TF
+   * Beyond-TF
+   * AttackersGoRed (AGR)
+   * FortressOne/QWTF.Live
  * TF-only server lists
  * TF-specific conbacks and menu graphics
  * Integrated MVDSV launcher for quick server setup within the client itself
@@ -45,8 +50,6 @@ community's setup process (which usually works on some servers, but not on other
  * Togglable verbose or GUI loading screens
  * CustomTF/ProzacTF custom class saving
  * CustomTF/ProzacTF custom class GUI buy menu (similar to Counter-Strike)
- * AttackersGoRed (AGR) support
- * FortressOne/QWTF.Live support
  * ...and much more to come!
 
 The standalone client comes only with bare minimum of game media. If you want to
